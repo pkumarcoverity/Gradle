@@ -1,4 +1,4 @@
 capture:
   build:
     clean-command: dir
-    build-command: gradlew.build
+    build-command: gradlew.bat build
