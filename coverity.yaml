@@ -1,4 +1,4 @@
 capture:
   build:
-    clean-command: gradle -b build.gradle --no-daemon clean
-    build-command: gradle -b build.gradle --no-daemon build
+    clean-command: dir
+    build-command: gradlew.build
