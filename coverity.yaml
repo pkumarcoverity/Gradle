@@ -1,5 +1,0 @@
-capture:
-  build:
-    clean-command: dir
-    build-command: gradlew.bat --no-daemon build
-    instrument: true
